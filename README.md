@@ -14,4 +14,8 @@
 
 2️⃣ Fase Bersiap (Lampu Kuning): Lampu kuning menyala, layar menampilkan hitung mundur dari 10 hingga 1 detik. Setelah selesai, lampu kuning mati
 
-3️⃣ Fase Jalan (Lampu Hijau): Lampu hijau menyala, layar menampilkan hitung mundur dari 10 hingga 1 detik. Setelah selesai, lampu hijau mati dan siklus kembali lagi ke lampu merah.
+3️⃣ Fase Jalan (Lampu Hijau): Lampu hijau menyala, layar menampilkan hitung mundur dari 10 hingga 1 detik. Setelah selesai, lampu hijau mati dan siklus kembali lagi ke lampu merah
+
+# Hasil
+<img width="1297" height="675" alt="traffic light" src="https://github.com/user-attachments/assets/971008ca-511b-4ede-b7af-9cb070e45cf8" />
+
