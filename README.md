@@ -10,6 +10,8 @@
 # Rangkaian
 
 # Alur Kerja Sistem
-:one Fase Berhenti (Lampu Merah): Lampu merah menyala, layar menampilkan hitung mundur dari 20 hingga 1 detik. Setelah selesai, lampu merah mati
+1️⃣ Fase Berhenti (Lampu Merah): Lampu merah menyala, layar menampilkan hitung mundur dari 20 hingga 1 detik. Setelah selesai, lampu merah mati
+
 2️⃣ Fase Bersiap (Lampu Kuning): Lampu kuning menyala, layar menampilkan hitung mundur dari 10 hingga 1 detik. Setelah selesai, lampu kuning mati
+
 3️⃣ Fase Jalan (Lampu Hijau): Lampu hijau menyala, layar menampilkan hitung mundur dari 10 hingga 1 detik. Setelah selesai, lampu hijau mati dan siklus kembali lagi ke lampu merah.
