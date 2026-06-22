@@ -8,6 +8,7 @@
 - Kabel Jumper
 
 # Rangkaian
+<img width="1960" height="1032" alt="wiring traffic light" src="https://github.com/user-attachments/assets/590d438c-3972-4079-9b0b-471b0e7494cc" />
 
 # Alur Kerja Sistem
 1️⃣ Fase Berhenti (Lampu Merah): Lampu merah menyala, layar menampilkan hitung mundur dari 20 hingga 1 detik. Setelah selesai, lampu merah mati
